@@ -1,0 +1,4 @@
+(executable
+ (public_name conway)
+ (name main)
+ (libraries conway raylib))
